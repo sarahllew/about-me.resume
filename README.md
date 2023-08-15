@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @sarahllew
+- 🍀 Interested in: data visualization and analysis of models and trends. 
 - 📫 How to reach me: sarahl02116@gmail.com or sarahlew@ucsb.edu
 
 <!---
