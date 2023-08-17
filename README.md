@@ -1,7 +1,7 @@
 # About Me:
 - 👋 Hi, I’m @sarahllew
 - 🍀 Interested in: implementing statistical algorithms for trend and data visualization to make data-driven solutions.
-- 🎀 Currently learning: Tableau for data analysts
+- 🎀 Currently learning: Tableau for data analysts and SAS Base Programming
 - ❤️‍🩹 Fun fact: I love thrifting, hiking, and journaling!
 - 📫 How to reach me: sarahl02116@gmail.com or sarahlew@ucsb.edu
 
