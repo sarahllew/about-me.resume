@@ -4,6 +4,7 @@
 
 Take a look at my most recent data science projects below!
 
+Predictive Analytics: Sephora Product Ratings (https://sarahllew.github.io/Predicting_Sephora_ML.html) 
 
 <!---
 sarahllew/sarahllew is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
