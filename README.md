@@ -2,7 +2,7 @@
 - 👋 Hi, I’m @sarahllew
 - 📫 How to reach me: sarahl02116@gmail.com or sarahlew@ucsb.edu
 
-Take a look at my `pinned data science projects` or check out the links below:
+Take a look at my **pinned data science projects** or check out the links below:
 
 - Predictive Analytics: Sephora Product Ratings (https://sarahllew.github.io/Predicting_Sephora_ML.html) 
 - Forecating U.S. Unemployment Rate (https://sarahllew.github.io/Forecasting-US-Unemployment.pdf) 
